@@ -28,9 +28,9 @@ Traditional QA datasets are often poorly suited to the complex and formal struct
 
 ---
 
-## 📦 Dataset: RE-POLIQA
+## 📦 Dataset: RePolicyQA [Link 🔗](https://www.dropbox.com/scl/fo/0fkernnzvxweokjs6w73m/ALdEN5KHBSH7eERUTmBoH5M?rlkey=dnr4xxkbqsbadr6jea9ok10r0&st=hxchxdzv&dl=0)
 
-As part of this framework, we introduce **RE-POLIQA** (Renewable Energy Policy QA Dataset), a high-quality, LLM-evaluated QA dataset specifically curated from official U.S. solar and energy incentive programs.
+As part of this framework, we introduce **RePolicyQA** (Renewable Energy Policy QA Dataset), a high-quality, LLM-evaluated QA dataset specifically curated from official U.S. solar and energy incentive programs.
 
 Key properties:
 
@@ -51,6 +51,12 @@ This dataset can be used for training and evaluating QA models for **legal, poli
 - 💬 Supports downstream use cases in **regulatory compliance**, **public benefit communication**, and **automated document summarization**
 
 ---
+
+## ℹ️ Disclaimer
+
+- 📂 RePolicyQA includes responses generated using large language models (LLMs). Although the models were constrained to follow the content of the original documents, the generated answers may differ from the exact text, and may contain factual inconsistencies or unintended biases inherent to LLMs. All data sources used were publicly available, and care was taken to ensure compliance with licensing and usage restrictions. Users are advised to verify LLM-generated content before downstream use.
+
+
 
 ## 👇 Continue reading below for module structure, pipeline stages, and shell commands to run the system.
 Coming Soon...
